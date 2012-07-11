@@ -1,0 +1,7 @@
+AuthUserFile "../../passwd/.htpasswd"
+AuthGroupFile "/dev/null"
+AuthName "Accès sécurisé au site Imagine For India"
+AuthType Basic
+<LIMIT GET POST>
+Require valid-user
+</LIMIT>

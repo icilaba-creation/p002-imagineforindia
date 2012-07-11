@@ -1,0 +1,27 @@
+div#global-container div#express-menu div#subtitle p
+{
+	top: 15px;
+}
+
+div#global-container div#express-menu div#links ul li a span
+{
+	position: relative;
+	top: 10px;
+}
+
+div#global-container div#header  div#header-elements div#zone-button-definition div#all-definitions  li.first
+{
+	margin-left: 40px;
+}
+
+div#global-container div#wrapper div#wrapper-elements div#picture-principal img
+{	
+	position:relative;
+	left: -510px;
+}
+
+div#global-container div#wrapper div#wrapper-elements div#picture-principal.contact img
+{
+	position:relative;
+	left: -260px;
+}
